@@ -32,11 +32,11 @@
     };
     avenue();
 
-    //  foreach ($banks as $key ) {
-    //     $val = $key;
-    //     echo $val;
-    //     echo '<br>';
-    //  };
+     foreach ($banks as $key ) {
+        $val = $key;
+        echo $val;
+        echo '<br>';
+     };
 
     // function filerArray(){
     // $banks = array('Zenith','Access','Gtb','Diamond','Inter-Continental');

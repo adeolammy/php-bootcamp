@@ -1,0 +1,12 @@
+<?php  include('inc/header.php')?>
+
+
+    <div class="text-center">
+        <h1>content section</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing 
+            elit. Voluptatem sequi nobis, nemo laboriosam tenetur ut sit aliquam earum saepe quia eligendi ipsa eaque, sint optio corrupti. Fugit, repellendus. Recusandae incidunt placeat error in molestias quis, at debitis. Accusantium tenetur quaerat porro nobis pariatur ipsam eaque dolores. Maxime, ducimus aut officiis deserunt nihil totam pariatur doloremque neque eligendi impedit, omnis tempora dolor! Natus fuga accusamus ducimus deserunt fugiat commodi ratione eius error iusto eos sed animi similique culpa ipsa quas nobis odio earum soluta tempora nostrum corporis, quis dolorum! Neque cumque doloremque aut? Nobis impedit deserunt laboriosam quisquam, 
+            odit similique quaerat. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque fugiat sit non eaque ullam unde, tenetur asperiores quae, adipisci placeat ab facilis veritatis. Nam, eligendi repellendus. Beatae nobis, assumenda commodi facilis illo rem magnam, quas qui deserunt libero eum quasi dolorem delectus ipsum saepe eius quaerat neque minima voluptatibus debitis consequuntur inventore. Aut officia facere sint molestias! Tempora ea hic delectus doloribus autem natus, quibusdam et, corrupti culpa voluptatem dolor! Exercitationem nesciunt suscipit reiciendis fuga voluptas ipsam accusantium dolores in commodi ut ratione harum ullam voluptates consectetur, dolor sint cupiditate facilis aspernatur aperiam! Iure distinctio ut earum eos dolorem in quam ipsa. Exercitationem, qui numquam iusto, minima quibusdam officia quos labore dignissimos assumenda rerum provident explicabo ipsum deleniti sunt iure omnis eveniet quas voluptates ex dolore quia amet! Tempore quis ad sunt. Commodi consequuntur consequatur dolorem illo doloremque asperiores ea quaerat. Unde iusto ut velit incidunt at, repudiandae delectus molestiae alias sapiente qui, distinctio pariatur quae blanditiis. Dignissimos maiores quidem id repellat libero? Sapiente veniam tempore voluptatibus molestiae doloribus enim ducimus, velit autem accusantium possimus dolore reiciendis debitis minus ratione, sequi ut veritatis ipsum esse ipsam hic quasi, perspiciatis natus unde recusandae! Ad laboriosam esse optio facere? Quis, doloribus suscipit!
+        </p>
+    </div>
+
+<?php  include('inc/footer.php')?>
